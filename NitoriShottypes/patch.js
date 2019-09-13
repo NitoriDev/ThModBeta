@@ -2,7 +2,7 @@
     	"dependencies": [
     		"nmlgc/base_tsa"
     	],
-	"id": "",
+	"id": "NitoriShottypes",
 	"servers": [
 		"https://raw.githubusercontent.com/NitoriDev/ThModBeta/master/NitoriShottypes/"
 	],
