@@ -1,5 +1,5 @@
 {
-    'patch.js", null,
-    "th12/pl00a.sht": null,
-    "th12/pl00b.sht": null
+	"patch.js": 2367577178,
+	"th12/pl00a.sht": 769013136,
+	"th12/pl00b.sht": 2215385619
 }
