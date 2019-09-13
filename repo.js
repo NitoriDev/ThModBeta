@@ -3,7 +3,7 @@
 	"id": "NitoriBeta",
 	"patches": {
 		"NitoriShottypes": "Shottype Mod [th12] WARNING: Replay incompatible with unmodded"
-		},
+	},
 	"servers": [
 		"https://raw.githubusercontent.com/NitoriDev/ThModBeta/master"
 	],
