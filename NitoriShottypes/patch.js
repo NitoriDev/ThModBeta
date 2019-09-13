@@ -1,5 +1,5 @@
-{
-        "dependencies": [
-                "nmlgc/base_tsa"
-        ]
-}
+    {
+    	"dependencies": [
+    		"nmlgc/base_tsa"
+    	]
+    }
